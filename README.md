@@ -7,7 +7,6 @@
   1. [CSS](#css)
     - [Formatting](#formatting)
     - [Comments](#comments)
-    - [OOCSS and BEM](#oocss-and-bem)
     - [ID Selectors](#id-selectors)
     - [JavaScript hooks](#javascript-hooks)
     - [Border](#border)
